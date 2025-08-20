@@ -64,8 +64,8 @@ Follow these steps to reproduce the project:
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/your-username/customer-subscription-analytics.git
-   cd customer-subscription-analytics
+   git clone https://github.com/manojkt14/Publishing-Media-Project-SQL-Python-PowerBI.git
+   cd Publishing-Media-Project-SQL-Python-PowerBI
    ```
 
 2. **Run SQL Scripts**
