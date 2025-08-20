@@ -1,0 +1,2 @@
+# Publishing-Media-Project-SQL-Python-PowerBI-
+This project is an end-to-end data analytics pipeline designed to analyze magazine subscription data and provide actionable insights into customer churn, retention, and engagement. It covers the complete lifecycle: SQL for data extraction &amp; transformation, Python for advanced analytics &amp; machine learning, and Power BI for interactive visualization.
